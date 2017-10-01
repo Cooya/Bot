@@ -1,0 +1,3 @@
+d2o : textes prédéfinis, items, monstres, ...
+d2p : données des maps
+d2i : fichiers I18n = traductions du jeu

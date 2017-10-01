@@ -1,0 +1,72 @@
+356 octets recus.
+
+Reception du paquet 1 (ProtocolRequired)
+Longueur de la taille : 1
+Taille : 8 octets
+
+Reception du paquet 3 (HelloConnectMessage)
+Longueur de la taille : 2
+Taille : 341 octets
+
+Envoi du paquet 4 (IdentificationMessage)
+Taille : 288 octets
+
+7 octets recus.
+
+Reception du paquet 10 (LoginQueueStatusMessage)
+Longueur de la taille : 1
+Taille : 4 octets
+
+123 octets recus.
+
+Reception du paquet 6314 (CredentialsAcknowledgementMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 10 (LoginQueueStatusMessage)
+Longueur de la taille : 1
+Taille : 4 octets
+
+Reception du paquet 22 (IdentificationSuccessMessage)
+Longueur de la taille : 1
+Taille : 47 octets
+
+Reception du paquet 6469 (SelectedServerDataExtendedMessage)
+Longueur de la taille : 1
+Taille : 61 octets
+
+Deconnecte du serveur.
+
+13 octets recus.
+
+Reception du paquet 1 (ProtocolRequired)
+Longueur de la taille : 1
+Taille : 8 octets
+
+Reception du paquet 101 (HelloGameMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Envoi du paquet 110 (AuthenticationTicketMessage)
+Taille : 41 octets
+
+9 octets recus.
+
+Reception du paquet 6362 (BasicAckMessage)
+Longueur de la taille : 1
+Taille : 6 octets
+
+4104 octets recus.
+
+Creation du depot et ajout de 4104 octets dans le depot.
+
+1064 octets recus.
+
+Ajout de 1064 octets dans le depot. Nouvelle taille du depot : 5168 octets.
+
+Reception du paquet 6253 (RawDataMessage)
+Longueur de la taille : 2
+Taille : 5164 octets
+
+Destruction du depot.
+

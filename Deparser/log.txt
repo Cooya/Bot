@@ -1,0 +1,340 @@
+Envoi du paquet 152 (CharacterSelectionMessage)
+Longueur de la taille : 1
+Taille : 6 octets
+
+Reception du paquet 6362 (BasicAckMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 6087 (NotificationListMessage)
+Longueur de la taille : 1
+Taille : 6 octets
+
+Reception du paquet 153 (CharacterSelectedSuccessMessage)
+Longueur de la taille : 1
+Taille : 51 octets
+
+Reception du paquet 3016 (InventoryContentMessage)
+Longueur de la taille : 1
+Taille : 5 octets
+
+Reception du paquet 6231 (ShortcutBarContentMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 6231 (ShortcutBarContentMessage)
+Longueur de la taille : 1
+Taille : 37 octets
+
+Reception du paquet 6630 ()
+Longueur de la taille : 1
+Taille : 1 octets
+
+Reception du paquet 6620 ()
+Longueur de la taille : 1
+Taille : 4 octets
+
+Reception du paquet 5689 (EmoteListMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 5655 (JobDescriptionMessage)
+Longueur de la taille : 1
+Taille : 231 octets
+
+Reception du paquet 5809 (JobExperienceMultiUpdateMessage)
+Longueur de la taille : 1
+Taille : 92 octets
+
+Reception du paquet 5652 (JobCrafterDirectorySettingsMessage)
+Longueur de la taille : 1
+Taille : 59 octets
+
+Reception du paquet 6058 (AlignmentRankUpdateMessage)
+Longueur de la taille : 1
+Taille : 2 octets
+
+Reception du paquet 6440 (PrismsListMessage)
+Longueur de la taille : 2
+Taille : 12762 octets
+
+Reception du paquet 892 (EnabledChannelsMessage)
+Longueur de la taille : 1
+Taille : 18 octets
+
+Reception du paquet 1200 (SpellListMessage)
+Longueur de la taille : 1
+Taille : 45 octets
+
+Reception du paquet 6231 (ShortcutBarContentMessage)
+Longueur de la taille : 1
+Taille : 37 octets
+
+Reception du paquet 170 (SetCharacterRestrictionsMessage)
+Longueur de la taille : 1
+Taille : 11 octets
+
+Reception du paquet 3009 (InventoryWeightMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 5630 (FriendWarnOnConnectionStateMessage)
+Longueur de la taille : 1
+Taille : 1 octets
+
+Reception du paquet 6078 (FriendWarnOnLevelGainStateMessage)
+Longueur de la taille : 1
+Taille : 1 octets
+
+Reception du paquet 6383 (FriendGuildWarnOnAchievementCompleteStateMessage)
+Longueur de la taille : 1
+Taille : 1 octets
+
+Reception du paquet 6513 ()
+Longueur de la taille : 1
+Taille : 1 octets
+
+Reception du paquet 6160 (GuildMemberWarnOnConnectionStateMessage)
+Longueur de la taille : 1
+Taille : 1 octets
+
+Reception du paquet 6316 (SequenceNumberRequestMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 780 (TextInformationMessage)
+Longueur de la taille : 1
+Taille : 4 octets
+
+Reception du paquet 780 (TextInformationMessage)
+Longueur de la taille : 1
+Taille : 27 octets
+
+Reception du paquet 6265 (SpouseStatusMessage)
+Longueur de la taille : 1
+Taille : 1 octets
+
+Reception du paquet 6205 (AchievementListMessage)
+Longueur de la taille : 1
+Taille : 33 octets
+
+Reception du paquet 6301 (GameRolePlayArenaUpdatePlayerInfosMessage)
+Longueur de la taille : 1
+Taille : 4 octets
+
+Reception du paquet 6339 (CharacterCapabilitiesMessage)
+Longueur de la taille : 1
+Taille : 2 octets
+
+Reception du paquet 6341 (AlmanachCalendarDateMessage)
+Longueur de la taille : 1
+Taille : 4 octets
+
+Reception du paquet 6585 ()
+Longueur de la taille : 1
+Taille : 6 octets
+
+Reception du paquet 6275 (MailStatusMessage)
+Longueur de la taille : 1
+Taille : 2 octets
+
+Reception du paquet 1301 ()
+Longueur de la taille : 1
+Taille : 2 octets
+
+Reception du paquet 6471 ()
+Longueur de la taille : 0
+Taille : 0 octets
+
+Envoi du paquet 4001 (FriendsGetListMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Envoi du paquet 5676 (IgnoredGetListMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Envoi du paquet 6355 (SpouseGetInformationsMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Envoi du paquet 5607 (ClientKeyMessage)
+Longueur de la taille : 1
+Taille : 71 octets
+
+Envoi du paquet 250 (GameContextCreateRequestMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 6362 (BasicAckMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 4002 (FriendsListMessage)
+Longueur de la taille : 1
+Taille : 2 octets
+
+Reception du paquet 176 (BasicNoOperationMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 6362 (BasicAckMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 5674 (IgnoredListMessage)
+Longueur de la taille : 1
+Taille : 2 octets
+
+Reception du paquet 176 (BasicNoOperationMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 6362 (BasicAckMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 176 (BasicNoOperationMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 6362 (BasicAckMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 176 (BasicNoOperationMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 6362 (BasicAckMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 201 (ActorAlignmentInformations)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 200 (GameContextCreateMessage)
+Longueur de la taille : 1
+Taille : 1 octets
+
+Reception du paquet 5684 (LifePointsRegenBeginMessage)
+Longueur de la taille : 1
+Taille : 1 octets
+
+Reception du paquet 220 (CurrentMapMessage)
+Longueur de la taille : 1
+Taille : 38 octets
+
+Reception du paquet 175 (AtlasPointsInformations)
+Longueur de la taille : 1
+Taille : 10 octets
+
+Reception du paquet 500 (CharacterStatsListMessage)
+Longueur de la taille : 2
+Taille : 341 octets
+
+Reception du paquet 6454 (UpdateMapPlayersAgressableStatusMessage)
+Longueur de la taille : 1
+Taille : 11 octets
+
+Reception du paquet 176 (BasicNoOperationMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Envoi du paquet 6317 (SequenceNumberMessage)
+Longueur de la taille : 1
+Taille : 2 octets
+
+Envoi du paquet 6334 (ObjectAveragePricesGetMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 6362 (BasicAckMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 176 (BasicNoOperationMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 6362 (BasicAckMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 2 (NetworkDataContainerMessage)
+Longueur de la taille : 2
+Taille : 37192 octets
+
+Reception du paquet 176 (BasicNoOperationMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 6454 (UpdateMapPlayersAgressableStatusMessage)
+Longueur de la taille : 1
+Taille : 11 octets
+
+Reception du paquet 6454 (UpdateMapPlayersAgressableStatusMessage)
+Longueur de la taille : 1
+Taille : 11 octets
+
+Envoi du paquet 5623 (QuestListRequestMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Envoi du paquet 6441 (PrismsListRegisterMessage)
+Longueur de la taille : 1
+Taille : 1 octets
+
+Envoi du paquet 890 ()
+Longueur de la taille : 1
+Taille : 2 octets
+
+Reception du paquet 6362 (BasicAckMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 5626 (QuestListMessage)
+Longueur de la taille : 1
+Taille : 23 octets
+
+Reception du paquet 176 (BasicNoOperationMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 6362 (BasicAckMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 176 (BasicNoOperationMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 6362 (BasicAckMessage)
+Longueur de la taille : 1
+Taille : 3 octets
+
+Reception du paquet 891 ()
+Longueur de la taille : 1
+Taille : 2 octets
+
+Reception du paquet 176 (BasicNoOperationMessage)
+Longueur de la taille : 0
+Taille : 0 octets
+
+Reception du paquet 5745 (InteractiveUsedMessage)
+Longueur de la taille : 1
+Taille : 12 octets
+
+Envoi du paquet 3214 ()
+Longueur de la taille : 1
+Taille : 48 octets
+
+Reception du paquet 769 ()
+Longueur de la taille : 1
+Taille : 99 octets
+
+Reception du paquet 4248 ()
+Longueur de la taille : 0
+Taille : 0 octets
+
